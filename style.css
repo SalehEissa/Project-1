@@ -1,0 +1,64 @@
+/* Set background color and font family for the entire document */
+body {
+    background-color: #2fa8cd;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Center the game container */
+  #game-container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Style the heading */
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the input field */
+  input[type="number"] {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 10px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the button */
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  button:hover {
+    background-color: #389e3c;
+  }
+  
+  /* Style the feedback message */
+  #feedback {
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 2px solid #e0e0e0;
+    border-radius: 3px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the number of guesses text */
+  #numGuesses {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
