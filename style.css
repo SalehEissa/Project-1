@@ -1,6 +1,6 @@
 /* Set background color and font family for the entire document */
 body {
-    background-color: #2fa8cd;
+    background-color: #a6f233;
     font-family: Arial, sans-serif;
   }
   
@@ -13,7 +13,7 @@ body {
   
   /* Style the heading */
   h1 {
-    color: #333;
+    color: #0f0112;
     font-size: 24px;
     margin-bottom: 20px;
   }
@@ -30,7 +30,7 @@ body {
   
   /* Style the button */
   button {
-    background-color: #4caf50;
+    background-color: #af864c;
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -42,7 +42,7 @@ body {
   }
   
   button:hover {
-    background-color: #389e3c;
+    background-color: #38389e;
   }
   
   /* Style the feedback message */
