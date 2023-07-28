@@ -1,8 +1,11 @@
 /* Set background color and font family for the entire document */
 body {
-    background-color: #a6f233;
-    font-family: Arial, sans-serif;
-  }
+  background-color: #2fa8cd;
+  font-family: Arial, sans-serif;
+  background-image: url("img.jpg.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
   
   /* Center the game container */
   #game-container {
